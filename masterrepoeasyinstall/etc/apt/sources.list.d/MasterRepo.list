@@ -8,6 +8,7 @@ deb http://apt.golddavid.com/ ./
 deb http://apt.if0rce.com/ ./
 deb http://apt.mootjeuh.com/ ./
 deb https://apt.steverolfe.com/ ./
+deb https://apt.neutronfile.com/ ./
 deb https://arcetera.github.io/ ./
 deb https://beta.unlimapps.com/ ./
 deb https://cokepokes.github.io/ ./
